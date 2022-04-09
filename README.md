@@ -14,7 +14,7 @@ Dipertemuan kali ini akan mempelajari **javascript** pada html, seperti penempat
 
 **PENJELASAN**
 
-Ini adalah hasil dari output dengan menggunakan element javascript **documen.write** dan **console.log** namun untuk **console.log** tidak ditampilkan dibrowser, ada fitur khusus untuk menampilkan nya seperti gambar dibawah.
+Ini adalah hasil dari output dengan menggunakan element javascript **documen.write** dan **console.log** namun untuk **console.log** tidak ditampilkan dibrowser, ada fitur khusus untuk menampilkan nya seperti gambar dibawah
 
 ![console.log](img/fitur.png)
 ini adalah output console.log seperti terlihat kanan bawah, terdapat fitur console dan didalam nya ada script hello world
@@ -206,7 +206,7 @@ Operasi Dasar Artimatika dalam ***javascript*** seperti contoh gambar di atas
 **PENJELASAN**
 
 Ini adalah program seleksi kondisi dari **if else** disitu **if** nya jika nilai lebih sama dengan 60 berarti lulus dan **else** nya jika 
-dibawah 60 berati tidak lulus, sementara saya memberi nilai 80 yang berarti hasil nya adalah lulus
+dibawah 60 berati tidak lulus, sementara saya memberi nilai 90 yang berarti hasil nya adalah lulus
 
 ![hasil](img/ifelse_hasil.png)
 ini adalah contoh output dari seleksi kondisi **if else** seperti contoh gambar diatas
@@ -334,7 +334,7 @@ Membuat **form input** dengan ***function javascript*** dan pengondisian **if/el
 
 **PENJELASAN**
 
-Disini menggunakan **form button** dengan **function javascript** dan **html form button** hasil nya adalah seperti contoh gambar di atas, saya memilih warna hijau dan teks kuning.
+Disini menggunakan **form button** dengan **function javascript** dan **html form button** hasil nya adalah seperti contoh gambar di atas, saya memilih warna hijau dan teks kuning
 
 **code html dan script**
 ```html
@@ -372,7 +372,6 @@ Disini menggunakan **form button** dengan **function javascript** dan **html for
 # HTML DOM
 
 ## 11). PILIHAN MENGGUNAKAN CHECKBOX DENGAN PERHITUNGAN OTOMATIS
-
 ## CODE DAN OUTPUT
 ![html_dom_checkbox](img/html_dom.png)
 
